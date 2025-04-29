@@ -1,0 +1,1243 @@
+2025-03-16 22:15:02,728 - INFO - Authenticating with YouTube API for your upload channel...
+2025-03-16 22:15:02,733 - INFO - Loading saved YouTube credentials...
+2025-03-16 22:15:02,742 - INFO - Refreshing expired YouTube credentials...
+2025-03-16 22:15:02,962 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-16 22:15:02,970 - INFO - Searching for YouTube channels with Taylor Swift concert videos...
+2025-03-16 22:15:06,744 - INFO - Searching: Taylor Swift concert full
+2025-03-16 22:15:12,432 - INFO - Found relevant channel: EAS Music Channel - https://www.youtube.com/@EASMusicChannel
+2025-03-16 22:16:26,757 - INFO - Authenticating with YouTube API for your upload channel...
+2025-03-16 22:16:26,762 - INFO - Loading saved YouTube credentials...
+2025-03-16 22:16:26,776 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-16 22:16:26,781 - INFO - Searching for YouTube channels with Taylor Swift concert videos...
+2025-03-16 22:16:29,787 - INFO - Searching: Taylor Swift concert full
+2025-03-16 22:16:36,838 - INFO - Found relevant channel: EAS Music Channel - https://www.youtube.com/@EASMusicChannel
+2025-03-16 22:17:38,279 - INFO - Authenticating with YouTube API for your upload channel...
+2025-03-16 22:17:38,284 - INFO - Loading saved YouTube credentials...
+2025-03-16 22:17:38,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-16 22:17:38,302 - INFO - Searching for YouTube channels with Taylor Swift concert videos...
+2025-03-16 22:17:41,229 - INFO - Searching: Taylor Swift concert full
+2025-03-16 22:17:45,625 - INFO - Searching: Taylor Swift Eras Tour
+2025-03-16 22:17:51,981 - INFO - Found relevant channel: Treble Clef Music - https://www.youtube.com/@TrebleClefM
+2025-03-16 22:17:51,983 - INFO - Using 2 source channels: ['https://www.youtube.com/@Mywonderland13', 'https://www.youtube.com/@TrebleClefM']
+2025-03-16 22:17:51,984 - INFO - Trying channel 1/5: https://www.youtube.com/@TrebleClefM
+2025-03-16 22:17:51,985 - INFO - 
+Processing source channel: https://www.youtube.com/@TrebleClefM at 2025-03-16 22:17:51.985147
+2025-03-16 22:17:51,986 - INFO - Fetching videos from source channel: https://www.youtube.com/@TrebleClefM
+2025-03-16 22:17:55,232 - INFO - Found 0 videos on the channel
+2025-03-16 22:17:55,234 - WARNING - No videos found on this channel
+2025-03-16 22:17:55,235 - WARNING - No videos available to download from this source channel
+2025-03-16 22:17:55,237 - WARNING - Failed to process channel: https://www.youtube.com/@TrebleClefM. 1 channels remaining.
+2025-03-16 22:17:55,238 - INFO - Trying channel 2/5: https://www.youtube.com/@Mywonderland13
+2025-03-16 22:17:55,239 - INFO - 
+Processing source channel: https://www.youtube.com/@Mywonderland13 at 2025-03-16 22:17:55.239609
+2025-03-16 22:17:55,240 - INFO - Fetching videos from source channel: https://www.youtube.com/@Mywonderland13
+2025-03-16 22:17:56,569 - INFO - Found 25 videos on the channel
+2025-03-16 22:18:02,779 - INFO - Video dcKqdTqMhTw has no copyright notice in description
+2025-03-16 22:18:10,916 - INFO - Video m1u4ehTFaxA has no copyright notice in description
+2025-03-16 22:18:18,499 - INFO - Video deCaBuscCaE has no copyright notice in description
+2025-03-16 22:18:26,398 - INFO - Video HABvjxat6Es rejected due to copyright notice in description
+2025-03-16 22:18:33,648 - INFO - Video fO95cY6eK9s has no copyright notice in description
+2025-03-16 22:18:40,180 - INFO - Video HToppVEFJLE has no copyright notice in description
+2025-03-16 22:18:46,769 - INFO - Video ayLh3_zSf8g has no copyright notice in description
+2025-03-16 22:18:53,841 - INFO - Video N7ps0c-6qSo has no copyright notice in description
+2025-03-16 22:18:59,419 - INFO - Video hGaxfG-uOV8 has no copyright notice in description
+2025-03-16 22:19:04,795 - INFO - Video E7ojl592bQE has no copyright notice in description
+2025-03-16 22:19:11,934 - INFO - Video stOindfOfoU has no copyright notice in description
+2025-03-16 22:19:17,159 - INFO - Video mstnX2L5Ko0 rejected due to copyright notice in description
+2025-03-16 22:19:22,648 - INFO - Video jx4AQmalFqo has no copyright notice in description
+2025-03-16 22:19:29,006 - INFO - Video zr5yJvoRuSU has no copyright notice in description
+2025-03-16 22:19:36,646 - INFO - Video CzUg_OcHH2c has no copyright notice in description
+2025-03-16 22:19:36,647 - INFO - Attempt 1: Trying to download https://www.youtube.com/watch?v=deCaBuscCaE
+2025-03-16 22:19:36,648 - INFO - Adding delay of 3.39 seconds before download...
+2025-03-16 22:19:43,485 - INFO - Downloading: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language!
+2025-03-16 22:20:01,340 - INFO - Downloaded: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4
+2025-03-16 22:20:01,356 - INFO - Adding watermark to video: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4
+2025-03-16 22:20:01,357 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-16 22:20:01,466 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4 -vf drawtext=text='© taylors_wonderland_official':fontcolor=white:fontsize=24:box=1:boxcolor=black@0.5:boxborderw=5:x=(w-text_w)/2:y=h-th-10 -codec:a copy -y C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:22:11,260 - INFO - Watermark added successfully. Output: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:22:11,444 - INFO - Uploading to YOUR channel: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language!
+2025-03-16 22:22:21,716 - INFO - Upload complete! Video ID on YOUR channel: 6jDeflQL1RU
+2025-03-16 22:22:21,795 - INFO - Scheduled file for deletion on next run: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:22:21,815 - INFO - Successfully uploaded video to YOUR YouTube channel: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language!
+2025-03-16 22:22:21,816 - INFO - View at: https://www.youtube.com/watch?v=6jDeflQL1RU
+2025-03-16 22:22:21,817 - INFO - Adding watermark to video: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4
+2025-03-16 22:22:21,818 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-16 22:22:21,819 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4 -vf drawtext=text='© taylorswift.wonderland':fontcolor=white:fontsize=24:box=1:boxcolor=black@0.5:boxborderw=5:x=(w-text_w)/2:y=h-th-10 -codec:a copy -y C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:24:32,240 - INFO - Watermark added successfully. Output: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:24:32,241 - INFO - Preparing to upload to TikTok: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language!
+2025-03-16 22:24:32,645 - INFO - Running in normal display mode
+2025-03-16 22:24:32,647 - INFO - ====== WebDriver manager ======
+2025-03-16 22:24:34,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-16 22:24:34,916 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-16 22:24:34,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-16 22:24:35,050 - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-16 22:24:35,055 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-16 22:24:35,056 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-16 22:24:35,113 - INFO - Driver downloading response is 200
+2025-03-16 22:24:35,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-16 22:24:35,949 - INFO - Driver has been saved in cache [C:\Users\ehsan\.wdm\drivers\chromedriver\win64\134.0.6998.88]
+2025-03-16 22:24:38,095 - INFO - Navigating to TikTok...
+2025-03-16 22:24:50,280 - INFO - TikTok cookies loaded successfully
+2025-03-16 22:24:52,759 - INFO - Navigating to upload page...
+2025-03-16 22:25:02,611 - INFO - Upload page detected via: //div[contains(@class, 'upload') or contains(@data-e2e, 'upload')]
+2025-03-16 22:25:02,612 - INFO - Looking for file input element...
+2025-03-16 22:25:02,625 - INFO - Found file input via: input[type='file']
+2025-03-16 22:25:02,626 - INFO - Uploading file: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-16 22:25:02,672 - INFO - Video file selected
+2025-03-16 22:25:02,673 - INFO - Waiting for video processing...
+2025-03-16 22:25:05,911 - INFO - Caption field found via: div.DraftEditor-root
+2025-03-16 22:25:05,912 - INFO - Entering caption...
+2025-03-16 22:25:05,913 - INFO - Prepared caption: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language! #taylorSwift #wonderland #shorts #trending
+2025-03-16 22:25:06,033 - INFO - Caption element info: tag=div, contenteditable=False
+2025-03-16 22:25:07,439 - WARNING - Caption entry method 1 failed: Message: element not interactable
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x0069B5A3+24387]
+	(No symbol) [0x00625904]
+	(No symbol) [0x005005CE]
+	(No symbol) [0x005435A9]
+	(No symbol) [0x005423CD]
+	(No symbol) [0x0056D84C]
+	(No symbol) [0x0053E164]
+	(No symbol) [0x0056DAC4]
+	(No symbol) [0x0058F138]
+	(No symbol) [0x0056D646]
+	(No symbol) [0x0053C59F]
+	(No symbol) [0x0053D8E4]
+	GetHandleVerifier [0x0099D883+3179043]
+	GetHandleVerifier [0x009B6CF9+3282585]
+	GetHandleVerifier [0x009B167C+3260444]
+	GetHandleVerifier [0x00734330+650448]
+	(No symbol) [0x0062ED0D]
+	(No symbol) [0x0062BAF8]
+	(No symbol) [0x0062BC99]
+	(No symbol) [0x0061E530]
+	BaseThreadInitThunk [0x75C95D49+25]
+	RtlInitializeExceptionChain [0x77C3CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77C3CE41+561]
+
+2025-03-16 22:25:08,106 - WARNING - Caption entry method 2 failed: Message: invalid element state
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x0069B5A3+24387]
+	(No symbol) [0x00625904]
+	(No symbol) [0x005005CE]
+	(No symbol) [0x005400E3]
+	(No symbol) [0x0056D84C]
+	(No symbol) [0x0053E164]
+	(No symbol) [0x0056DAC4]
+	(No symbol) [0x0058F138]
+	(No symbol) [0x0056D646]
+	(No symbol) [0x0053C59F]
+	(No symbol) [0x0053D8E4]
+	GetHandleVerifier [0x0099D883+3179043]
+	GetHandleVerifier [0x009B6CF9+3282585]
+	GetHandleVerifier [0x009B167C+3260444]
+	GetHandleVerifier [0x00734330+650448]
+	(No symbol) [0x0062ED0D]
+	(No symbol) [0x0062BAF8]
+	(No symbol) [0x0062BC99]
+	(No symbol) [0x0061E530]
+	BaseThreadInitThunk [0x75C95D49+25]
+	RtlInitializeExceptionChain [0x77C3CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77C3CE41+561]
+
+2025-03-16 22:25:08,143 - INFO - Caption entered with Method 3 (JavaScript)
+2025-03-16 22:25:08,223 - INFO - Caption entry completed successfully
+2025-03-16 22:25:08,223 - INFO - Looking for Post button...
+2025-03-16 22:25:08,387 - ERROR - Could not find Post button. Upload cannot be completed.
+2025-03-16 22:25:08,388 - INFO - Closing browser...
+2025-03-16 22:25:15,862 - WARNING - Failed to upload video to TikTok: Taylor Swift's Iconic 'Like Ever' Moments in Every European Language!
+2025-03-16 22:25:15,866 - INFO - Scheduled file for deletion on next run: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4
+2025-03-16 22:25:15,915 - INFO - Successfully processed channel: https://www.youtube.com/@Mywonderland13
+2025-03-16 22:26:15,923 - INFO - Waiting for next scheduled run... Next run in approximately 471 minutes
+2025-03-16 22:27:15,932 - INFO - Waiting for next scheduled run... Next run in approximately 470 minutes
+2025-03-16 22:28:15,938 - INFO - Waiting for next scheduled run... Next run in approximately 469 minutes
+2025-03-17 18:53:14,984 - INFO - Authenticating with YouTube API for your upload channel...
+2025-03-17 18:53:15,011 - INFO - Loading saved YouTube credentials...
+2025-03-17 18:53:15,025 - INFO - Refreshing expired YouTube credentials...
+2025-03-17 18:53:15,243 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-17 18:53:15,252 - INFO - Write test to C:\Users\ehsan/videos successful
+2025-03-17 18:53:15,253 - INFO - Searching for YouTube channels with Taylor Swift concert videos...
+2025-03-17 18:53:18,228 - INFO - Searching: Taylor Swift concert full
+2025-03-17 18:53:23,623 - INFO - Searching: Taylor Swift Eras Tour
+2025-03-17 18:53:30,176 - INFO - Skipping channel with copyright notices: EAS Music Channel
+2025-03-17 18:53:35,331 - INFO - Skipping channel with copyright notices: EAS Music Channel
+2025-03-17 18:53:39,622 - INFO - Skipping channel with copyright notices: EAS Music Channel
+2025-03-17 18:53:44,550 - INFO - Skipping channel with copyright notices: EAS Music Channel
+2025-03-17 18:53:49,691 - INFO - Skipping channel with copyright notices: EAS Music Channel
+2025-03-17 18:53:55,355 - INFO - Found relevant channel: None - https://www.youtube.com/@TrebleClefM
+2025-03-17 18:53:55,357 - INFO - Using 2 source channels: ['https://www.youtube.com/@Mywonderland13', 'https://www.youtube.com/@TrebleClefM']
+2025-03-17 18:53:55,358 - INFO - Trying channel 1/5: https://www.youtube.com/@TrebleClefM
+2025-03-17 18:53:55,359 - INFO - 
+Processing source channel: https://www.youtube.com/@TrebleClefM at 2025-03-17 18:53:55.359881
+2025-03-17 18:53:55,360 - INFO - Attempting to delete 2 previously scheduled files...
+2025-03-17 18:53:55,365 - INFO - Successfully deleted: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language_watermarked.mp4
+2025-03-17 18:53:55,366 - INFO - Successfully deleted: C:\Users\ehsan\Videos\Youtube\Taylor Swifts Iconic Like Ever Moments in Every European Language.mp4
+2025-03-17 18:53:55,385 - INFO - Fetching videos from source channel: https://www.youtube.com/@TrebleClefM
+2025-03-17 18:53:57,947 - INFO - Found 30 videos on the channel
+2025-03-17 18:54:05,721 - INFO - Video krQgkgNBicU has no copyright notice in description
+2025-03-17 18:54:10,936 - INFO - Video AFcgRjC_bI8 rejected due to copyright notice in description
+2025-03-17 18:54:18,785 - INFO - Video R893uOBGNCM has no copyright notice in description
+2025-03-17 18:54:23,537 - INFO - Video YT_7pP6aXgE rejected due to copyright notice in description
+2025-03-17 18:54:30,253 - INFO - Video _eq4Z-jb-DE rejected due to copyright notice in description
+2025-03-17 18:54:37,143 - INFO - Video VZjIs--m09o rejected due to copyright notice in description
+2025-03-17 18:54:44,251 - INFO - Video zxtvyM1T-d4 has no copyright notice in description
+2025-03-17 18:54:49,689 - INFO - Video mpEwqd1O3y8 rejected due to copyright notice in description
+2025-03-17 18:54:58,348 - INFO - Video ZQXyCHUAQLg rejected due to copyright notice in description
+2025-03-17 18:55:02,956 - INFO - Video HcXOpSaUBf0 rejected due to copyright notice in description
+2025-03-17 18:55:07,790 - INFO - Video 1ioVPwhG-JQ rejected due to copyright notice in description
+2025-03-17 18:55:14,096 - INFO - Video drulf7PbUFY rejected due to copyright notice in description
+2025-03-17 18:55:19,929 - INFO - Video JSy9enqFdLA has no copyright notice in description
+2025-03-17 18:55:25,620 - INFO - Video siBMZD1sT0Y has no copyright notice in description
+2025-03-17 18:55:32,280 - INFO - Video MLgthggcl_0 rejected due to copyright notice in description
+2025-03-17 18:55:39,711 - INFO - Video 3XBYgmYVXqk rejected due to copyright notice in description
+2025-03-17 18:55:44,628 - INFO - Video JKjkCicm25M has no copyright notice in description
+2025-03-17 18:55:50,143 - INFO - Video RKZy9ZIdMRE rejected due to copyright notice in description
+2025-03-17 18:55:55,616 - INFO - Video S4tzZ3g0hqw has no copyright notice in description
+2025-03-17 18:56:01,521 - INFO - Video -Fn0Ig85z4Y has no copyright notice in description
+2025-03-17 18:56:07,154 - INFO - Video QSpGAimkdi4 rejected due to copyright notice in description
+2025-03-17 18:56:14,030 - INFO - Video xLIUWW8spzQ has no copyright notice in description
+2025-03-17 18:56:20,480 - INFO - Video JwrQAle5uXo rejected due to copyright notice in description
+2025-03-17 18:56:25,563 - INFO - Video Qyqk12hvgtg rejected due to copyright notice in description
+2025-03-17 18:56:31,215 - INFO - Video tJzDDd6C62k rejected due to copyright notice in description
+2025-03-17 18:56:37,223 - INFO - Video 1PzCHNkiaOM rejected due to copyright notice in description
+2025-03-17 18:56:42,225 - INFO - Video pKdhxTs68sQ has no copyright notice in description
+2025-03-17 18:56:46,625 - INFO - Video ioBqnhyBLbg has no copyright notice in description
+2025-03-17 18:56:53,503 - INFO - Video RgzwgsP1kyY rejected due to copyright notice in description
+2025-03-17 18:56:53,504 - INFO - Attempt 1: Trying to download https://www.youtube.com/watch?v=zxtvyM1T-d4
+2025-03-17 18:56:53,505 - INFO - Adding delay of 6.15 seconds before download...
+2025-03-17 18:57:01,904 - INFO - Will download to: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:01,907 - INFO - Downloading: Sabrina's Welcome Speech (From "A Nonsense Christmas with Sabrina Carpenter")
+2025-03-17 18:57:05,045 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  0.0%[0m (0.0MB/2.2MB) at 0.49MB/s, ETA: 4s
+2025-03-17 18:57:05,049 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  0.1%[0m (0.0MB/2.2MB) at 0.59MB/s, ETA: 3s
+2025-03-17 18:57:05,051 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  0.3%[0m (0.0MB/2.2MB) at 0.80MB/s, ETA: 2s
+2025-03-17 18:57:05,055 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  0.7%[0m (0.0MB/2.2MB) at 1.17MB/s, ETA: 1s
+2025-03-17 18:57:05,059 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  1.4%[0m (0.0MB/2.2MB) at 1.83MB/s, ETA: 1s
+2025-03-17 18:57:05,073 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  2.8%[0m (0.1MB/2.2MB) at 2.02MB/s, ETA: 1s
+2025-03-17 18:57:05,091 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m  5.6%[0m (0.1MB/2.2MB) at 2.51MB/s, ETA: 0s
+2025-03-17 18:57:05,115 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m 11.3%[0m (0.2MB/2.2MB) at 3.51MB/s, ETA: 0s
+2025-03-17 18:57:05,137 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m 22.7%[0m (0.5MB/2.2MB) at 5.31MB/s, ETA: 0s
+2025-03-17 18:57:05,189 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m 45.5%[0m (1.0MB/2.2MB) at 6.86MB/s, ETA: 0s
+2025-03-17 18:57:05,251 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m 91.0%[0m (2.0MB/2.2MB) at 9.62MB/s, ETA: 0s
+2025-03-17 18:57:05,440 - INFO - Downloading Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4: [0;94m100.0%[0m (2.2MB/2.2MB) at 5.54MB/s, ETA: 0s
+2025-03-17 18:57:05,443 - INFO - Download finished: Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:05,486 - INFO - Downloaded: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:05,514 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:05,516 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:05,617 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylors_wonderland_official':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:06,411 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001d37ffbee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001d300138ec0] Error reinitializing filters!
+[vf#0:0 @ 000001d300138ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001d300138ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001d37fc30b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001d37fc39a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:06,415 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001d37ffbee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001d300138ec0] Error reinitializing filters!
+[vf#0:0 @ 000001d300138ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001d300138ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001d37fc30b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001d37fc39a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:06,430 - WARNING - Retrying add_watermark in 2.53s due to FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001d37ffbee40] [Eval @ 0000006a6e5fede0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001d37ffbee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001d37ffbee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001d300138ec0] Error reinitializing filters!
+[vf#0:0 @ 000001d300138ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001d300138ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001d37fc30b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001d37fc30b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001d37fc39a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+ (1/3)
+2025-03-17 18:57:08,965 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:08,967 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:08,967 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylors_wonderland_official':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:09,564 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001c4bf078ec0] Error reinitializing filters!
+[vf#0:0 @ 000001c4bf078ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001c4bf078ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001c4bea40b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001c4bea49a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:09,566 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001c4bf078ec0] Error reinitializing filters!
+[vf#0:0 @ 000001c4bf078ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001c4bf078ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001c4bea40b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001c4bea49a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:09,570 - WARNING - Retrying add_watermark in 5.94s due to FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] [Eval @ 000000b5289feb80] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001c4bef3ee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001c4bf078ec0] Error reinitializing filters!
+[vf#0:0 @ 000001c4bf078ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001c4bf078ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001c4bea40b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001c4bea40b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001c4bea49a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+ (2/3)
+2025-03-17 18:57:15,511 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:15,513 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:15,514 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylors_wonderland_official':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:16,121 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 0000017c14521680] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 0000017c14a38ec0] Error reinitializing filters!
+[vf#0:0 @ 0000017c14a38ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 0000017c14a38ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0000017c144b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0000017c144b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:16,124 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 0000017c14521680] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 0000017c14a38ec0] Error reinitializing filters!
+[vf#0:0 @ 0000017c14a38ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 0000017c14a38ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0000017c144b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0000017c144b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:16,128 - ERROR - YouTube upload process failed: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 0000017c14521680] [Eval @ 0000003523ffefa0] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 0000017c14521680] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 0000017c14521680] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 0000017c14a38ec0] Error reinitializing filters!
+[vf#0:0 @ 0000017c14a38ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 0000017c14a38ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 0000017c144b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 0000017c144b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 0000017c144b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:16,129 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:16,130 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:16,130 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylorswift.wonderland':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:16,748 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002b597c6ec40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002b597da8ec0] Error reinitializing filters!
+[vf#0:0 @ 000002b597da8ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002b597da8ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002b5979c0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002b5979c9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:16,749 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002b597c6ec40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002b597da8ec0] Error reinitializing filters!
+[vf#0:0 @ 000002b597da8ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002b597da8ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002b5979c0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002b5979c9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:16,754 - WARNING - Retrying add_watermark in 2.57s due to FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002b597c6ec40] [Eval @ 000000c0103ff120] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002b597c6ec40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002b597c6ec40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002b597da8ec0] Error reinitializing filters!
+[vf#0:0 @ 000002b597da8ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002b597da8ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002b5979c0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002b5979c0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002b5979c9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+ (1/3)
+2025-03-17 18:57:19,326 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:19,327 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:19,329 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylorswift.wonderland':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:19,953 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002cfa80eee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002cfa8228ec0] Error reinitializing filters!
+[vf#0:0 @ 000002cfa8228ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002cfa8228ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002cfa7de0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002cfa7de9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:19,955 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002cfa80eee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002cfa8228ec0] Error reinitializing filters!
+[vf#0:0 @ 000002cfa8228ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002cfa8228ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002cfa7de0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002cfa7de9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:19,961 - WARNING - Retrying add_watermark in 5.23s due to FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000002cfa80eee40] [Eval @ 000000f0289fed70] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000002cfa80eee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000002cfa80eee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000002cfa8228ec0] Error reinitializing filters!
+[vf#0:0 @ 000002cfa8228ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000002cfa8228ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000002cfa7de0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000002cfa7de0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000002cfa7de9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+ (2/3)
+2025-03-17 18:57:25,197 - INFO - Adding watermark to video: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:25,199 - INFO - Using position parameter: x=(w-text_w)/2:y=h-th-10
+2025-03-17 18:57:25,202 - INFO - Running FFmpeg command: C:\Users\ehsan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -i C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4 -vf drawbox=x=0:y=main_h-40:w=main_w:h=40:color=black@0.5:t=fill,drawtext=text='© taylorswift.wonderland':x=(w-text_w)/2:y=main_h-20:fontcolor=white:fontsize=24 -codec:a copy -y C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter_watermarked.mp4
+2025-03-17 18:57:25,823 - ERROR - FFmpeg error: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001b55f8cee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001b55fa08ec0] Error reinitializing filters!
+[vf#0:0 @ 000001b55fa08ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001b55fa08ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001b55f5b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001b55f5b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:25,826 - ERROR - Error adding watermark: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001b55f8cee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001b55fa08ec0] Error reinitializing filters!
+[vf#0:0 @ 000001b55fa08ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001b55fa08ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001b55f5b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001b55f5b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:25,834 - ERROR - TikTok upload process failed: FFmpeg failed with code 4294967274: ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    encoder         : Google
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 511 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x358 [SAR 1:1 DAR 320:179], 412 kb/s, 25.91 fps, 25.91 tbr, 12956 tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Fontconfig error: Cannot load default config file: No such file: (null)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+Fontconfig error: Cannot load default config file: No such file: (null)
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_w'
+[Parsed_drawbox_0 @ 000001b55f8cee40] [Eval @ 00000074c55ff130] Undefined constant or missing '(' in 'main_h-40'
+[Parsed_drawbox_0 @ 000001b55f8cee40] Error when evaluating the expression 'main_h-40'.
+[Parsed_drawbox_0 @ 000001b55f8cee40] Failed to configure input pad on Parsed_drawbox_0
+[vf#0:0 @ 000001b55fa08ec0] Error reinitializing filters!
+[vf#0:0 @ 000001b55fa08ec0] Task finished with error code: -22 (Invalid argument)
+[vf#0:0 @ 000001b55fa08ec0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001b55f5b0b00] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001b55f5b0b00] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001b55f5b9a80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    
+Conversion failed!
+
+2025-03-17 18:57:25,837 - INFO - Scheduled file for deletion on next run: C:\Users\ehsan/videos\Sabrinas Welcome Speech From A Nonsense Christmas with Sabrina Carpenter.mp4
+2025-03-17 18:57:25,868 - INFO - Attempt 1 failed. Trying another video...
+2025-03-17 18:57:25,869 - INFO - Fetching videos from source channel: https://www.youtube.com/@TrebleClefM
+2025-03-17 18:57:28,999 - INFO - Found 30 videos on the channel
+2025-03-17 19:35:34,558 - ERROR - Download error: [WinError 2] The system cannot find the file specified: '/tmp'
+2025-03-17 19:36:10,317 - ERROR - Download error: [WinError 2] The system cannot find the file specified: '/tmp'
+2025-03-17 19:36:33,264 - INFO - Attempting to download video dQw4w9WgXcQ to C:\Users\ehsan\Videos\Youtube\video_dQw4w9WgXcQ.mp4
+2025-03-17 19:36:37,806 - INFO - Download successful: C:\Users\ehsan\Videos\Youtube\video_dQw4w9WgXcQ.mp4 (9100820 bytes)
+2025-03-18 12:51:02,044 - ERROR - Directory setup failed: [WinError 2] The system cannot find the file specified: '/tmp'
+2025-03-18 12:51:02,049 - CRITICAL - Critical error in main loop: [WinError 2] The system cannot find the file specified: '/tmp'
