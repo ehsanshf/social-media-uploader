@@ -124,7 +124,7 @@ class YouTubeChannelReuploader:
                             video_links.append(f"https://www.youtube.com/watch?v={video_id}")
                 
                 # For each video, get the channel info
-                for video_url in video_links[:10]:  # Check first 10 videos in search results
+                for video_url in video_links[:20]:  # Check first 10 videos in search results
                     try:
                         # Use yt-dlp to get video info including channel
                         ydl_opts = {
